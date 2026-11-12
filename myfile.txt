@@ -6,3 +6,4 @@ github is usefull
 this is my frist git lab
 new work in progress
 
+i am student
